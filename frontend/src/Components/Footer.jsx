@@ -1,6 +1,8 @@
 
 export const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>
+      The real workout starts when you want to stop - Ronnie Coleman
+    </footer>
   )
 }
